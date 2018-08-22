@@ -2,7 +2,7 @@
 Demo Content used for Secure Cloud Summit 2018 
 
 
-# Sample Kusto Queries
+# Kusto Queries
 
 **Update Management**
 
