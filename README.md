@@ -1,8 +1,7 @@
 # Secure Cloud Summit 2018
 Demo Content used for Secure Cloud Summit 2018 
 
-
-# Kusto Queries
+# Log Analytics Kusto Queries
 
 **Update Management**
 
@@ -41,7 +40,6 @@ SecurityEvent
 Link for the ARM template -> [101-DDOS-Attack-Prevention](https://github.com/Azure/azure-quickstart-templates/tree/master/101-DDoS-Attack-Prevention)
 
 
-
 # Other Resources 
 https://docs.microsoft.com/en-us/azure/security-center/security-center-intro
 
@@ -50,3 +48,8 @@ https://docs.microsoft.com/en-us/azure/security/azure-ddos-best-practices
 https://docs.loganalytics.io/index
 
 https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-overview
+
+https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-data-security
+
+# Presentation Deck 
+Link for the presentation deck -> []()
