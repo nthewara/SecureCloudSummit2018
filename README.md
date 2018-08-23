@@ -52,4 +52,4 @@ https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-overview
 https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-data-security
 
 # Presentation Deck 
-Link for the presentation deck -> []()
+Link for the presentation deck -> [Securing Protected-Level Workloads in Azure](https://github.com/nthewara/SecureCloudSummit2018/raw/master/Securing%20PROTECTED-level%20workloads%20in%20Azure.pdf)
